@@ -35,13 +35,9 @@ k. Explore the potential correlation between temperature and monthly variation o
 ## Dataset
 The dataset encompasses surface temperature data for various countries worldwide, spanning from May 1848 to December 2020.
 
-## Code Files
-The code files containing the implementation of the above steps will be uploaded along with this README.
 
 ## Conclusion
 Through this exploratory data analysis, we aim to gain valuable insights into global temperature trends, seasonal patterns, and potential correlations between temperature and related factors.
-
-For any inquiries or further information, please contact [Your Name/Email].
 
 Let's work together to understand and address the challenges of climate change.
 
